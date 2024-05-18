@@ -3,7 +3,6 @@ package org.example;
 import java.util.HashSet;
 import java.util.Set;
 
-
 public class Main {
 
     public static int findSmallestNonOccurring(int[] array) {
